@@ -1,6 +1,6 @@
 # justinMedia SMM API
 
-One Paragraph of project description goes here
+Desktop client for most public social media marketing panels, featuring a dynamic and customizable .NET API wrapper.
 
 ## Authors
 
